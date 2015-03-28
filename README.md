@@ -10,5 +10,5 @@ Lista dei contractor
 ### progetti.csv
 Lista dei progetti FP7
 
-### organisations-gen-2015.openrefine.tar
+### FP7_organisations.google-refine.tar
 Progetto Open Refine con tutte le operazioni condotte sul dataset originale CORDIS
