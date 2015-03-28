@@ -12,3 +12,6 @@ Lista dei progetti FP7
 
 ### FP7_organisations.google-refine.tar
 Progetto Open Refine con tutte le operazioni condotte sul dataset originale CORDIS
+
+### Network
+Prova di network con Gephi esportata con plug in
